@@ -1,9 +1,9 @@
 # Home 
 
-[Project-A] Developed by Atul Malakar (https://github.com/executable16/Home/tree/Project-A)
+ Developed by Atul Malakar [Project-A](https://github.com/executable16/Home/tree/Project-A)
 
-[Project-B] Developed by Atul Malakar(https://github.com/executable16/Home/tree/Project-A)
+ Developed by Atul Malakar [Project-B](https://github.com/executable16/Home/tree/Project-A)
 
-[Project-C] Developed by Atul Malakar(https://github.com/executable16/Home/tree/Project-A)
+ Developed by Atul Malakar [Project-C](https://github.com/executable16/Home/tree/Project-A)
 
-[Project-Z]Developed by Brajesh Sharma (https://github.com/executable16/Home/tree/Project-A)
+ Developed by Brajesh Sharma [Project-Z](https://github.com/executable16/Home/tree/Project-A)
